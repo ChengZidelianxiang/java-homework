@@ -1,5 +1,5 @@
 *.class
-  *.jar
-  *.iml                                                                                                                   .idea/
-  out/
-  TestPictures/
+*.jar
+*.iml
+.idea/
+out/
